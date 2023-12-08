@@ -1,0 +1,23 @@
+<header>
+	Breaking News
+</header>
+
+<news>
+	<video_text_entry>
+		<title>
+			New Hype
+		</title>
+		<section>
+			<video>
+				https://infinite-roleplay.net/static/assets/videos/trailer.mp4
+			</video>
+		</section>
+		<section>
+			<text>
+					A new trailer for our app
+				<break>
+					See how we did it here <link>https://infinite-roleplay.net</link>
+			</text>
+		</section>
+	</video_text_entry>
+</news>
